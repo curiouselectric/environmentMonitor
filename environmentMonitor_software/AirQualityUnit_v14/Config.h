@@ -10,8 +10,8 @@
 //https://io.adafruit.com/api/docs/mqtt.html#mqtt-connection-details
 #define AIO_SERVER                         "io.adafruit.com" // direct
 #define AIO_SERVERPORT                     8883    // Use 8883 if at all possible! For secure conenction
-#define AIO_USERNAME                      "chunky" // This is your Adafruit IO username
-#define AIO_KEY                           "b010a306b7304c3396d22be3a7600570" // This is your Adafruit IO Key
+#define AIO_USERNAME                      "*** YOUR ADAFRUIT IO USER NAME ***" // This is your Adafruit IO username
+#define AIO_KEY                           "*** YOUR ADAFRUIT IO KEY ***" // This is your Adafruit IO Key
 
 
 
